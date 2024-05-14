@@ -5,7 +5,7 @@ import { Button } from '@mui/material';
 function ExampleComponent() {
   return (
     <div>
-      <Button>click me</Button>
+      <Button>Seach Placeholder</Button>
     </div>
   );
 };
